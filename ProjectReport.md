@@ -16,21 +16,15 @@ Please remove this subsection before submitting your report.
 
 ## Challenge #1 Complete
 
-(Explain your solution to Challenge #1. If it is not complete, change
-the subsection title above to "Incomplete" and explain how far you got
-and where you got stuck.)
+For challenge #1 I replaced FakeQueryEngine with WikipediaQueryEngine in the QueryEngineModel class.
 
 ## Challenge #2 Complete
 
-(Explain your solution to Challenge #2. If it is not complete, change
-the subsection title above to "Incomplete" and explain how far you got
-and where you got stuck.)
+For challenge #2 I created an interface called FormatInterface and used implemented it in a new Revision formatter called NewRevisionFormatter.
 
 ## Challenge #3 Complete
 
-(Explain your solution to Challenge #3. If it is not complete, change
-the subsection title above to "Incomplete" and explain how far you got
-and where you got stuck.)
+For challenge #3, instead of using the stringbuilder and for loop, I used the stream api.
 
 ## Reflection Question #1: Functional vs OO
 
